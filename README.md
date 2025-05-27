@@ -3,7 +3,7 @@
 
 Moves new uploads to a custom folder such as /media or /assets. The folder name can be set via Settings > Upload Folder.<br>
 Privacy Focussed, safe and open source.
-
+#
 ### Download your plugin here
 You can read how to install [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes?tab=readme-ov-file#how-to-install-the-plugin).
 #
