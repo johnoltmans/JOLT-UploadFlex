@@ -5,7 +5,7 @@ Moves new uploads to a custom folder such as /media or /assets. The folder name 
 Privacy Focussed, safe and open source.
 #
 ### Download your plugin here
-You can read how to install [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes?tab=readme-ov-file#how-to-install-the-plugin).
+You can read how to install [here](https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins).
 #
 
 ![2025-05-27 15_04_58-asus-rog-strix-3840x2160-16722 jpg (JPEG Image, 3840 × 2160 pixels) — Scaled (44](https://github.com/user-attachments/assets/c6ee4d64-b4cf-4181-8489-79509405a80b)
