@@ -5,6 +5,7 @@ Moves new uploads to a custom folder such as /media or /assets. The folder name 
 Privacy Focussed, safe and open source.
 #
 ### Download your plugin here
+Download the plugin [here](https://github.com/johnoltmans/JOLT-UploadFlex/archive/refs/heads/main.zip).
 You can read how to install [here](https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins).
 #
 
