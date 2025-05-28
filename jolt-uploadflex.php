@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JOLT™ UploadFlex
-Plugin URI: https://github.com/Smoshed/WordPress-Plugins
+Plugin URI: https://github.com/johnoltmans/JOLT-UploadFlex
 Description: Moves new uploads to a custom folder such as /media or /assets. The folder name can be set via Settings > JOLT UploadFlex.
 Version: 1.4
 Author: John Oltmans
