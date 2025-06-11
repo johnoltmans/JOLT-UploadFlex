@@ -5,7 +5,7 @@ Plugin URI: https://github.com/johnoltmans/JOLT-UploadFlex
 Description: Moves new uploads to a custom folder such as /media or /assets.
 Version: 1.4
 Author: John Oltmans
-Author URI: https://www.johnoltmans.nl/
+Author URI: https://www.johnoltmans.nl
 */
 
 add_action('admin_menu', function() {
