@@ -1,5 +1,5 @@
 # JOLT™ UploadFlex
-<img src="https://github.com/user-attachments/assets/e0ea1c68-b691-4b03-8630-ab344001e28b" alt="Image for the wordpress plugin" width="300" >
+<img src="https://github.com/user-attachments/assets/86765a44-a482-4c28-b828-7021d1140a90" alt="Image for the wordpress plugin" width="300" >
 
 Moves new uploads to a custom folder such as /media or /assets.<br>
 Privacy Focussed, safe and open source.
