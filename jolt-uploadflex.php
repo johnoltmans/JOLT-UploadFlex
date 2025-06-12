@@ -6,6 +6,8 @@ Description: Moves new uploads to a custom folder such as /media or /assets.
 Version: 1.4
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 add_action('admin_menu', function() {
