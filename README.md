@@ -13,7 +13,8 @@ You can read how to install [here](https://github.com/Smoshed/WordPress-Plugins/
 
 ![2025-05-27 15_06_52-Greenshot](https://github.com/user-attachments/assets/2334a4b0-182e-4714-9669-5c00bb93766a)
 
-![2025-05-27 15_07_51-JOLT UploadFlex Settings ‹ WordpressDevTest — WordPress — Waterfox](https://github.com/user-attachments/assets/e41d5194-c456-4520-8dab-464cf7661a9e)
+![Screenshot 2025-06-26 at 15-15-25 JOLT UploadFlex Setti](https://github.com/user-attachments/assets/95be2dbd-6458-4fa6-81ab-c4f59c2f416c)
+
 
 #
 # How to install the plugin.
