@@ -13,8 +13,7 @@ You can read how to install [here](https://github.com/Smoshed/WordPress-Plugins/
 
 ![2025-05-27 15_06_52-Greenshot](https://github.com/user-attachments/assets/2334a4b0-182e-4714-9669-5c00bb93766a)
 
-![Screenshot 2025-06-26 at 15-15-25 JOLT UploadFlex Setti](https://github.com/user-attachments/assets/95be2dbd-6458-4fa6-81ab-c4f59c2f416c)
-
+![Screenshot 2025-06-26 at 15-17-39 JOLT UploadFlex Setti](https://github.com/user-attachments/assets/17f9c351-8e04-42d2-8f53-80c4281da7fe)
 
 #
 # How to install the plugin.
