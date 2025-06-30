@@ -1,4 +1,4 @@
-# JOLT™ UploadFlex
+# JOLT UploadFlex
 <img src="https://github.com/user-attachments/assets/86765a44-a482-4c28-b828-7021d1140a90" alt="Image for the wordpress plugin" width="300" >
 
 Moves new uploads to a custom folder such as /media or /assets.<br>
@@ -23,7 +23,7 @@ You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-th
 
 ## 🛡 License
 
-JOLT ThemeFork is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+JOLT UploadFlex is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ### ⚠️ Fair Use Reminder
 
