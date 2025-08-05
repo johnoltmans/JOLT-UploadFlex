@@ -2,7 +2,7 @@
 
 UPDDATE: Be carefull using this plugin while using elementor. Elementor causes to break things!<br>
 I will try to release a update for this very soon.
-
+#
 <img src="https://github.com/user-attachments/assets/86765a44-a482-4c28-b828-7021d1140a90" alt="Image for the wordpress plugin" width="300" >
 
 Moves new uploads to a custom folder such as /media or /assets.<br>
@@ -35,3 +35,4 @@ This plugin is licensed under the GPL, which permits redistribution.
 However, out of respect for the author's work, please do not republish it under your own name or branding.
 
 Contributions, forks, and suggestions are always welcome via GitHub.
+
