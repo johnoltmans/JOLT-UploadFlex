@@ -21,13 +21,8 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 
 ![Screenshot 2025-06-26 at 15-17-39 JOLT UploadFlex Setti](https://github.com/user-attachments/assets/17f9c351-8e04-42d2-8f53-80c4281da7fe)
 
-#
-# How to install the plugin.
-You can read https://github.com/johnoltmans/WordPress/wiki/How-to-install-the-plugins for more info.
-
----
-
 ## 🛡 Security, Privacy & Usage Policy
 
 To read more about my Security, privacy and Usage Policy,<br>
 Please follow this link: https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md
+
