@@ -6,7 +6,9 @@ I will try to release a update for this very soon.
 <img src="https://github.com/user-attachments/assets/86765a44-a482-4c28-b828-7021d1140a90" alt="Image for the wordpress plugin" width="300" >
 
 Moves new uploads to a custom folder such as /media or /assets.<br>
-Privacy Focussed, safe and open source.
+
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md).
+
 #
 ### Download your plugin here
 Download the plugin [here](https://github.com/johnoltmans/JOLT-UploadFlex/archive/refs/heads/main.zip).<br>
@@ -35,6 +37,7 @@ This plugin is licensed under the GPL, which permits redistribution.
 However, out of respect for the author's work, please do not republish it under your own name or branding.
 
 Contributions, forks, and suggestions are always welcome via GitHub.
+
 
 
 
