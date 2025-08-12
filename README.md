@@ -27,18 +27,7 @@ You can read https://github.com/johnoltmans/WordPress/wiki/How-to-install-the-pl
 
 ---
 
-## 🛡 License
+## 🛡 Security, Privacy & Usage Policy
 
-JOLT UploadFlex is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
-
-### ⚠️ Fair Use Reminder
-
-This plugin is licensed under the GPL, which permits redistribution.  
-However, out of respect for the author's work, please do not republish it under your own name or branding.
-
-Contributions, forks, and suggestions are always welcome via GitHub.
-
-
-
-
-
+To read more about my Security, privacy and Usage Policy,<br>
+Please follow this link: https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md
