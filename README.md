@@ -1,6 +1,6 @@
 # JOLT UploadFlex
 
-## **NOTE:** Be carefull using this plugin while using elementor. Elementor causes to break things!<br> I will try to release a update for this very soon.
+#### **NOTE:** Be carefull using this plugin while using elementor. Elementor causes to break things!<br> I will try to release a update for this very soon.
 
 <img src="https://github.com/user-attachments/assets/86765a44-a482-4c28-b828-7021d1140a90" alt="Image for the wordpress plugin" width="300" >
 
@@ -24,6 +24,7 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 
 To read more about my Security, privacy and Usage Policy,<br>
 Please follow this link: https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md
+
 
 
 
