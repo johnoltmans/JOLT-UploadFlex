@@ -6,8 +6,8 @@ Description: Moves new uploads to a custom folder such as /media or /assets, pre
 Version: 1.2.1
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 // UF Media removed; only settings and upload folder functionality remains
