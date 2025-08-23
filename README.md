@@ -2,7 +2,7 @@
 
 **NOTE:** This plugin has compatibility issues with Elementor, <br>which appears to disrupt its functionality. Fortunately, this does not occur in every case.
 
-[I am diligently working to resolve this issue](https://github.com/johnoltmans/JOLT-UploadFlex/issues/1)
+[I am diligently working to resolve this issue](https://github.com/DevAldon/JOLT-UploadFlex/issues/1)
 , but I cannot guarantee a fix at this time. <br>However, aside from this problem, the plugin operates as intended.
 
 
@@ -10,12 +10,12 @@
 
 Moves new uploads to a custom folder such as /media or /assets.<br>
 
-All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md).
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/DevAldon/WordPress/blob/main/SECURITY.md).
 
 #
 ### Download your plugin here
-Download the plugin [here](https://github.com/johnoltmans/JOLT-UploadFlex/archive/refs/heads/main.zip).<br>
-You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki/How-to-install-the-plugins).
+Download the plugin [here](https://github.com/DevAldon/JOLT-UploadFlex/archive/refs/heads/main.zip).<br>
+You can read how to install [here](https://github.com/DevAldon/WordPress/wiki/How-to-install-the-plugins).
 #
 
 ![2025-05-27 15_04_58-asus-rog-strix-3840x2160-16722 jpg (JPEG Image, 3840 × 2160 pixels) — Scaled (44](https://github.com/user-attachments/assets/c6ee4d64-b4cf-4181-8489-79509405a80b)
@@ -27,7 +27,7 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 ## 🛡 Security, Privacy & Usage Policy
 
 To read more about my Security, privacy and Usage Policy,<br>
-Please follow this link: https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md
+Please follow this link: https://github.com/DevAldon/WordPress/blob/main/SECURITY.md
 
 
 
