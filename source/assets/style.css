@@ -1,0 +1,118 @@
+body, html, #wpcontent, #wpbody, #wpwrap {
+    background: #004287 !important;
+    color: #fff !important;
+}
+
+.jolt-uploadflex-admin-bg {
+    background: transparent !important;
+    min-height: 100vh;
+    color: #fff;
+}
+
+.jolt-uploadflex-admin-wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 30px;
+}
+
+.jolt-uploadflex-admin-logo {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 250px;
+    height: 250px;
+    background: #00336b;
+    background-image: url('uploadflex.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.jolt-uploadflex-admin-title {
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.jolt-uploadflex-admin-notice {
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+    border-left: 4px solid #ff0;
+    padding: 16px 22px;
+    margin-bottom: 38px;
+    font-size: 1.08em;
+}
+
+.jolt-uploadflex-admin-form {
+    background: rgba(0,0,0,0.16);
+    padding: 28px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.jolt-uploadflex-form-title {
+    color: #fff !important;
+    font-size: 1.3em;
+    font-weight: 600;
+    margin-bottom: 18px;
+    text-align: left;
+}
+
+.jolt-uploadflex-admin-form label,
+.jolt-uploadflex-admin-form th,
+.jolt-uploadflex-admin-form td,
+.jolt-uploadflex-admin-form input,
+.jolt-uploadflex-admin-form select,
+.jolt-uploadflex-admin-form textarea,
+.jolt-uploadflex-admin-form .button,
+.jolt-uploadflex-admin-form .button-primary {
+    color: #fff !important;
+}
+
+.jolt-uploadflex-admin-form .regular-text {
+    background: #fff;
+    color: #00336b;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 1.12em;
+}
+
+.jolt-uploadflex-admin-form .button-primary {
+    background: #0056b3 !important;
+    color: #fff !important;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.08em;
+    padding: 6px 20px;
+    margin-top: 12px;
+}
+
+#wpfooter {
+    background: #004287 !important;
+    color: #fff !important;
+    border-top: none !important;
+}
+
+/* Alle links wit en onderlijnd */
+a,
+.jolt-uploadflex-admin-wrap a,
+.jolt-uploadflex-admin-form a {
+    color: #fff !important;
+    text-decoration: underline !important;
+}
+
+@media (max-width: 600px) {
+    .jolt-uploadflex-admin-wrap {
+        padding: 20px 4vw;
+    }
+    .jolt-uploadflex-admin-logo {
+        width: 80px;
+        height: 80px;
+    }
+    .jolt-uploadflex-admin-form {
+        padding: 14px;
+    }
+}
